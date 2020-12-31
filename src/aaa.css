@@ -1,0 +1,13 @@
+.aaa {
+    color: blue;
+}
+.all {
+    margin-top: 10px;
+}
+.item {
+    margin-right: 20px;
+    display:inline-block;
+}
+.item p {
+    text-align: center;
+}
